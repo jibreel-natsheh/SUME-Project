@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Enterprise CRM System",
+      "name_ar": "نظام إدارة علاقات العملاء",
+      "price": 15000,
+      "currency": "USD",
+      "category": "Business Software",
+      "description": "Complete customer relationship management solution with sales tracking, customer support, and analytics.",
+      "description_ar": "حل شامل لإدارة علاقات العملاء مع تتبع المبيعات ودعم العملاء والتحليلات.",
+      "units_sold": 245
+    },
+    {
+      "id": 2,
+      "name": "Inventory Management Pro",
+      "name_ar": "نظام إدارة المخزون الاحترافي",
+      "price": 8500,
+      "currency": "USD",
+      "category": "Business Software",
+      "description": "Real-time inventory tracking with automated reordering and supply chain integration.",
+      "description_ar": "تتبع المخزون في الوقت الفعلي مع إعادة الطلب التلقائية والتكامل مع سلسلة التوريد.",
+      "units_sold": 189
+    },
+    {
+      "id": 3,
+      "name": "Project Management Suite",
+      "name_ar": "مجموعة إدارة المشاريع",
+      "price": 12000,
+      "currency": "USD",
+      "category": "Business Software",
+      "description": "Collaborative project management tool with task assignments, timelines, and reporting features.",
+      "description_ar": "أداة إدارة مشاريع تعاونية مع تعيين المهام والجداول الزمنية وميزات التقارير.",
+      "units_sold": 310
+    },
+    {
+      "id": 4,
+      "name": "Accounting & Finance Tool",
+      "name_ar": "أداة المحاسبة والمالية",
+      "price": 9500,
+      "currency": "USD",
+      "category": "Business Software",
+      "description": "Comprehensive accounting software with invoicing, expense tracking, and financial reporting.",
+      "description_ar": "برنامج محاسبة شامل مع الفوترة وتتبع النفقات والتقارير المالية.",
+      "units_sold": 275
+    },
+    {
+      "id": 5,
+      "name": "HR Management System",
+      "name_ar": "نظام إدارة الموارد البشرية",
+      "price": 11000,
+      "currency": "USD",
+      "category": "Business Software",
+      "description": "Human resources management platform with employee records, payroll, and performance tracking.",
+      "description_ar": "منصة إدارة الموارد البشرية مع سجلات الموظفين والرواتب وتتبع الأداء.",
+      "units_sold": 200
+    }
+  ]
+}
