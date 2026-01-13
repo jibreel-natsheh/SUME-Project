@@ -46,7 +46,7 @@ streamlit run simple-ui.py
 ```
 product-chatbot/
 ├── chatbot.py              # Core chatbot logic
-├── streamlit_app.py        # Web interface
+├── simple-ui.py            # Web interface
 ├── event_automation.py     # Event-driven automation
 ├── products_data.json      # Product database
 ├── requirements.txt        # Dependencies
